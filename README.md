@@ -9,7 +9,7 @@ the commercial offering of [YooniK Services](https://yoonik.me)
 
 ## YooniK Biometric in Things in a nutshell
 
-The concept of Biometric In Things was designed in bring face authentication to the edge. The software comprises a set of 
+The concept of Biometric In Things was designed to bring face authentication to the edge. The software comprises a set of 
 complex functionalities such as face detection, face analysis and face verification capabilities. 
 
 The YooniK.BiT supports out of the box the following camera drivers/types:
@@ -38,16 +38,15 @@ When you need to validate if the 2 face images belong to the same person you can
 
 ## Setup YooniK Biometric in Things.
 
-To start using YooniK BiT, please visit our SaaS and find the subscription that fits your needs.
+To start using YooniK BiT, please visit our website and find the subscription that fits your needs.
 
 Once you have your subscription activated, please [reach us](support@yoonik.me) to create the management resources for you.
 When you get  our response (within a couple of hours) you need to setup everything in your machine:
 
 - Download the binary files and extract them into you local machine and launch the batch file inside the package.
 
-
 - Call the setup API endpoint to install everything automatically. You need to provide **x-api-key** key 
-from your subscription in the http request header. 
+from your subscription in the http request header. This request may take some time depending on your internet connection.
 
 Visit our [documentation page](https://dev-yoonik.github.io/YK-BiT-Documentation/) or 
 follow one of our YK-BiT-SDK-** repositories for quicker integration and to start building awesome authentication applications.
