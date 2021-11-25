@@ -1,10 +1,10 @@
 
-![https://yoonik.me/wp-content/uploads/2019/08/cropped-LogoV4_TRANSPARENT.png](https://yoonik.me/wp-content/uploads/2019/08/cropped-LogoV4_TRANSPARENT.png)
+![https://yk-website-images.s3.eu-west-1.amazonaws.com/LogoV4_TRANSPARENT.png](https://yk-website-images.s3.eu-west-1.amazonaws.com/LogoV4_TRANSPARENT.png)
 
 # YooniK Biometric in Things Binaries
 
 This repository contains the binaries for the YooniK Biometric in Things, service integrated in 
-the commercial offering of [YooniK Services](https://yoonik.me)
+the commercial offering of [YooniK Services](https://www.yoonik.me)
 
 
 ## YooniK Biometric in Things in a nutshell
